@@ -1,6 +1,6 @@
 # Data Model - TaskMaster Pro
 
-**Generated**: 2025-12-06T04:20:59.844516
+**Generated**: 2025-12-08T23:10:35.423444
 **App Type**: task_management
 **Database**: ZeroDB
 
@@ -1177,7 +1177,7 @@ This data model uses ZeroDB, which combines:
       }
     }
   },
-  "created_at": "2025-12-06T04:20:59.844414",
+  "created_at": "2025-12-08T23:10:35.423385",
   "version": "1.0.0"
 }
 ```
